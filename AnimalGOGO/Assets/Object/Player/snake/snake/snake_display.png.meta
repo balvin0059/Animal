@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 5ce529944e6dd3f4281abdc8836d7c0b
+timeCreated: 1466531103
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: snake_display_0
+    21300002: snake_display_1
+    21300004: snake_display_2
+    21300006: snake_display_3
+    21300008: snake_display_4
+    21300010: snake_display_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: snake_display_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 60}
+        - {x: -23, y: 60}
+        - {x: -42, y: 52}
+        - {x: -42, y: -22}
+        - {x: -34, y: -68}
+        - {x: 29, y: -68}
+        - {x: 40, y: -64}
+        - {x: 42, y: -45}
+        - {x: 42, y: 57}
+    - name: snake_display_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 59}
+        - {x: -42, y: 47}
+        - {x: -42, y: -67}
+        - {x: 35, y: -67}
+        - {x: 42, y: -47}
+        - {x: 42, y: 44}
+        - {x: 21, y: 59}
+    - name: snake_display_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 60}
+        - {x: -42, y: 53}
+        - {x: -42, y: -59}
+        - {x: -41, y: -68}
+        - {x: 38, y: -68}
+        - {x: 42, y: -37}
+        - {x: 42, y: 57}
+        - {x: 35, y: 60}
+    - name: snake_display_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 59}
+        - {x: -32, y: 55}
+        - {x: -42, y: 45}
+        - {x: -42, y: -42}
+        - {x: -36, y: -67}
+        - {x: 31, y: -67}
+        - {x: 42, y: -43}
+        - {x: 42, y: 51}
+        - {x: 30, y: 59}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

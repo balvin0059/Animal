@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &169098
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 482286}
+  - component: {fileID: 11413066}
+  m_Layer: 0
+  m_Name: DropC
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &482286
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169098}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.029647937, y: 0.64824724, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11413066
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 169098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b750fc6a49f42b4596b3095da8866e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Itemlist:
+  - ItemID: 0
+    ItemName: "\u9748\u7FBD"
+    ItemObject: {fileID: 134420, guid: 9ed661bc18b18e840af91027ae61447d, type: 2}
+    dropRate: 0.01
+  - ItemID: 1
+    ItemName: "\u78C1\u9435"
+    ItemObject: {fileID: 113466, guid: 284a1f044f0733f43a3ac8f15178d879, type: 2}
+    dropRate: 0.2
+  - ItemID: 2
+    ItemName: "\u5C0F\u5149\u7403"
+    ItemObject: {fileID: 107806, guid: 55775d36521796c49b5e3bc433542131, type: 2}
+    dropRate: 0.3
+  - ItemID: 3
+    ItemName: "\u5BF6\u7BB1"
+    ItemObject: {fileID: 135036, guid: f4bd6386089b1f545a5857509397bbb7, type: 2}
+    dropRate: 0.18
+  ItemPartner:
+  - ItemID: 4
+    ItemName: "\u9F20"
+    ItemObject: {fileID: 194872, guid: e24c65bfb92f1f3489f065beedbd8e17, type: 2}
+    dropRate: 0.5
+  - ItemID: 5
+    ItemName: "\u725B"
+    ItemObject: {fileID: 193548, guid: d87d8fa456c3a63498bb1a07a06c908c, type: 2}
+    dropRate: 0.5
+  - ItemID: 6
+    ItemName: "\u864E"
+    ItemObject: {fileID: 174298, guid: b8c94e8e5d52cf3458e51212df3dc84a, type: 2}
+    dropRate: 0.5
+  - ItemID: 7
+    ItemName: "\u86C7"
+    ItemObject: {fileID: 141174, guid: 7f84b4744a7dba94795662832dda2995, type: 2}
+    dropRate: 0.5
+  - ItemID: 8
+    ItemName: "\u96DE"
+    ItemObject: {fileID: 122290, guid: 213ab4094283772488f7682adbf8f575, type: 2}
+    dropRate: 0.5
+  - ItemID: 9
+    ItemName: "\u72D7"
+    ItemObject: {fileID: 161340, guid: 0ba47bec45657cf4e95c24d1003a2035, type: 2}
+    dropRate: 0.5
+  - ItemID: 10
+    ItemName: "\u8C6C"
+    ItemObject: {fileID: 196034, guid: 68d8a84d25680eb40a00170773291ce0, type: 2}
+    dropRate: 0.5
+  - ItemID: 10
+    ItemName: "\u8C6C"
+    ItemObject: {fileID: 196034, guid: 68d8a84d25680eb40a00170773291ce0, type: 2}
+    dropRate: 0.5
+  ItemCoin:
+  - ItemID: 11
+    ItemName: 1
+    ItemObject: {fileID: 189412, guid: 24487b2c0ed96a744a1e98a8423fb95b, type: 2}
+    dropRate: 0.5
+  - ItemID: 12
+    ItemName: 5
+    ItemObject: {fileID: 115062, guid: c7507431d874c8c48afe93e678bc161f, type: 2}
+    dropRate: 0.3
+  - ItemID: 13
+    ItemName: 10
+    ItemObject: {fileID: 118624, guid: e814e8e13a62f5047af41d0547fa93ef, type: 2}
+    dropRate: 0.2
+  r: 0
+  r_1: 0
+  r_2: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: ItemPartner.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Itemlist.Array.data[0].ItemName
+      value: "\u9748\u7FBD"
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: ItemPartner.Array.data[2].ItemName
+      value: "\u864E"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 169098}
+  m_IsPrefabParent: 1

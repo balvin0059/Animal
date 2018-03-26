@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: a3f26cc5908a2804381a34c50de8ab68
+timeCreated: 1451931741
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skull_down_0
+    21300002: skull_down_1
+    21300004: skull_down_2
+    21300006: skull_down_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: skull_down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 29}
+        - {x: -24, y: 23}
+        - {x: -24, y: -32}
+        - {x: -23, y: -34}
+        - {x: 24, y: -34}
+        - {x: 24, y: 18}
+        - {x: 14, y: 29}
+    - name: skull_down_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 26}
+        - {x: -24, y: 21}
+        - {x: -24, y: -32}
+        - {x: -21, y: -34}
+        - {x: 22, y: -34}
+        - {x: 24, y: -26}
+        - {x: 24, y: 17}
+        - {x: 20, y: 26}
+    - name: skull_down_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 29}
+        - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: -22, y: -34}
+        - {x: 23, y: -34}
+        - {x: 23, y: 20}
+        - {x: 17, y: 29}
+    - name: skull_down_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 26}
+        - {x: -24, y: 20}
+        - {x: -24, y: -32}
+        - {x: -20, y: -34}
+        - {x: 21, y: -34}
+        - {x: 24, y: -26}
+        - {x: 24, y: 13}
+        - {x: 19, y: 26}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 57512cde6c4323d4785b485676c9c067
+timeCreated: 1452313418
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - LevelMusic: {instanceID: 0}
+  - DropBox: {fileID: 169098, guid: 998ffabf7e2a5ea49b717b5f48f9e13a, type: 2}
+  - textShower: {fileID: 160314, guid: 2a57a059cf8c8cf4a92b2900b6afc046, type: 2}
+  - remain: {fileID: 197392, guid: 641d301203c449d4baa6ec81202e0eec, type: 2}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

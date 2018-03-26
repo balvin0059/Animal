@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: eebf7864e3472544785ebaa2c93e0819
+timeCreated: 1466412755
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ox_display_0
+    21300002: ox_display_1
+    21300004: ox_display_2
+    21300006: ox_display_3
+    21300008: ox_display_4
+    21300010: ox_display_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ox_display_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 70}
+        - {x: -54, y: 69}
+        - {x: -54, y: -48}
+        - {x: -31, y: -66}
+        - {x: 43, y: -66}
+        - {x: 54, y: -38}
+        - {x: 54, y: 70}
+    - name: ox_display_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 70}
+        - {x: -54, y: -41}
+        - {x: -26, y: -68}
+        - {x: 19, y: -68}
+        - {x: 54, y: -55}
+        - {x: 54, y: 68}
+        - {x: 52, y: 70}
+    - name: ox_display_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 70}
+        - {x: -54, y: 69}
+        - {x: -54, y: -48}
+        - {x: -31, y: -66}
+        - {x: 43, y: -66}
+        - {x: 54, y: -38}
+        - {x: 54, y: 70}
+    - name: ox_display_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 70}
+        - {x: -54, y: -57}
+        - {x: -45, y: -62}
+        - {x: -19, y: -68}
+        - {x: 40, y: -68}
+        - {x: 54, y: -58}
+        - {x: 54, y: 70}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

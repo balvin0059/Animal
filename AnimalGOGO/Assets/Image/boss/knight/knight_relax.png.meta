@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 63aae7ce4a6814841a95f4396dbb1df0
+timeCreated: 1462771356
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: knight_relax_0
+    21300002: knight_relax_1
+    21300004: knight_relax_2
+    21300006: knight_relax_3
+    21300008: knight_relax_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knight_relax_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 107.5}
+        - {x: -34, y: 69.5}
+        - {x: -61, y: -27.5}
+        - {x: -61, y: -86.5}
+        - {x: -42, y: -97.5}
+        - {x: 66, y: -97.5}
+        - {x: 66, y: 53.5}
+        - {x: 48, y: 107.5}
+    - name: knight_relax_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 108.5}
+        - {x: -29, y: 62.5}
+        - {x: -61, y: -22.5}
+        - {x: -61, y: -74.5}
+        - {x: -56, y: -96.5}
+        - {x: -36, y: -97.5}
+        - {x: 57, y: -97.5}
+        - {x: 66, y: -59.5}
+        - {x: 66, y: 42.5}
+        - {x: 41, y: 108.5}
+    - name: knight_relax_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: -97.5}
+        - {x: 68, y: -33.5}
+        - {x: 68, y: 14.5}
+        - {x: 44, y: 109.5}
+        - {x: 13, y: 109.5}
+        - {x: -49, y: 59.5}
+        - {x: -61, y: -0.5}
+        - {x: -61, y: -79.5}
+        - {x: -58, y: -96.5}
+        - {x: -37, y: -92.5}
+        - {x: -35, y: -89.5}
+        - {x: -26, y: -91.5}
+        - {x: -10, y: -90.5}
+        - {x: 10, y: -97.5}
+        - {x: 23, y: -97.5}
+        - {x: 25, y: -95.5}
+        - {x: 25, y: -87.5}
+        - {x: 35, y: -97.5}
+    - name: knight_relax_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: -97.5}
+        - {x: 71, y: -72.5}
+        - {x: 71, y: 52.5}
+        - {x: 50, y: 109.5}
+        - {x: 10, y: 109.5}
+        - {x: -49, y: 59.5}
+        - {x: -61, y: -0.5}
+        - {x: -61, y: -79.5}
+        - {x: -58, y: -96.5}
+        - {x: -37, y: -92.5}
+        - {x: -35, y: -89.5}
+        - {x: -26, y: -91.5}
+        - {x: -10, y: -90.5}
+        - {x: 10, y: -97.5}
+        - {x: 23, y: -97.5}
+        - {x: 25, y: -95.5}
+        - {x: 25, y: -87.5}
+        - {x: 35, y: -97.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

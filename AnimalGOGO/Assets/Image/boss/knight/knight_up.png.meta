@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 23edf40ec90a5a343898fcbb0dfdc764
+timeCreated: 1462771363
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: knight_up_0
+    21300002: knight_up_1
+    21300004: knight_up_2
+    21300006: knight_up_3
+    21300008: knight_up_4
+    21300010: knight_up_5
+    21300012: knight_up_6
+    21300014: knight_up_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knight_up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 104.5}
+        - {x: -32, y: 104.5}
+        - {x: -46, y: 43.5}
+        - {x: -46, y: -60.5}
+        - {x: -27, y: -98.5}
+        - {x: 30, y: -98.5}
+        - {x: 46, y: -77.5}
+        - {x: 46, y: 26.5}
+        - {x: 35, y: 77.5}
+    - name: knight_up_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 103.5}
+        - {x: -34, y: 94.5}
+        - {x: -44, y: 25.5}
+        - {x: -46, y: 0.5}
+        - {x: -46, y: -59.5}
+        - {x: -35, y: -96.5}
+        - {x: 41, y: -96.5}
+        - {x: 46, y: -80.5}
+        - {x: 46, y: 52.5}
+        - {x: 3, y: 103.5}
+    - name: knight_up_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 102.5}
+        - {x: -46, y: 76.5}
+        - {x: -46, y: -79.5}
+        - {x: -43, y: -96.5}
+        - {x: 40, y: -96.5}
+        - {x: 46, y: -75.5}
+        - {x: 46, y: 69.5}
+        - {x: -5, y: 102.5}
+    - name: knight_up_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 104.5}
+        - {x: -35, y: 104.5}
+        - {x: -46, y: 32.5}
+        - {x: -46, y: -79.5}
+        - {x: -33, y: -97.5}
+        - {x: 25, y: -97.5}
+        - {x: 46, y: -81.5}
+        - {x: 46, y: 48.5}
+        - {x: 38, y: 79.5}
+    - name: knight_up_4
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 104.5}
+        - {x: -40, y: 97.5}
+        - {x: -46, y: 45.5}
+        - {x: -46, y: -80.5}
+        - {x: -35, y: -97.5}
+        - {x: 30, y: -97.5}
+        - {x: 46, y: -53.5}
+        - {x: 46, y: 62.5}
+        - {x: 4, y: 104.5}
+    - name: knight_up_5
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 104.5}
+        - {x: -33, y: 104.5}
+        - {x: -46, y: 62.5}
+        - {x: -46, y: -66.5}
+        - {x: -33, y: -95.5}
+        - {x: 46, y: -95.5}
+        - {x: 46, y: 49.5}
+        - {x: 26, y: 71.5}
+    - name: knight_up_6
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 104.5}
+        - {x: -46, y: 42.5}
+        - {x: -46, y: -56.5}
+        - {x: -25, y: -96.5}
+        - {x: 29, y: -96.5}
+        - {x: 46, y: -65.5}
+        - {x: 46, y: 58.5}
+        - {x: -1, y: 104.5}
+    - name: knight_up_7
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 104.5}
+        - {x: -37, y: 104.5}
+        - {x: -41, y: 96.5}
+        - {x: -46, y: 36.5}
+        - {x: -46, y: -60.5}
+        - {x: -20, y: -94.5}
+        - {x: -9, y: -97.5}
+        - {x: 34, y: -97.5}
+        - {x: 46, y: -79.5}
+        - {x: 46, y: 30.5}
+        - {x: 36, y: 77.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

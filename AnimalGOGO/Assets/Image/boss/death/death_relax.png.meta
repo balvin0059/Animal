@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 8e80ac59535387a46a50dae2f16ac2b3
+timeCreated: 1462780661
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: death_relax_0
+    21300002: death_relax_1
+    21300004: death_relax_2
+    21300006: death_relax_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: death_relax_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 37}
+        - {x: -67, y: 29}
+        - {x: -67, y: -123}
+        - {x: -5, y: -142}
+        - {x: 49, y: -142}
+        - {x: 69, y: -129}
+        - {x: 69, y: -36}
+        - {x: 49, y: 37}
+      - - {x: -19, y: -121}
+        - {x: -21, y: -123}
+        - {x: -21, y: -126}
+        - {x: -19, y: -128}
+        - {x: -16, y: -128}
+        - {x: -14, y: -126}
+        - {x: -14, y: -123}
+        - {x: -16, y: -121}
+    - name: death_relax_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 37}
+        - {x: -67, y: 28}
+        - {x: -67, y: -117}
+        - {x: -8, y: -125}
+        - {x: 4, y: -124}
+        - {x: 9, y: -121}
+        - {x: 11, y: -119}
+        - {x: 9, y: -123}
+        - {x: 6, y: -123}
+        - {x: 3, y: -124}
+        - {x: -13, y: -128}
+        - {x: -11, y: -134}
+        - {x: -3, y: -142}
+        - {x: 68, y: -142}
+        - {x: 69, y: -137}
+        - {x: 69, y: 9}
+        - {x: 47, y: 37}
+    - name: death_relax_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 35}
+        - {x: -23, y: 35}
+        - {x: -67, y: 20}
+        - {x: -67, y: -119}
+        - {x: -5, y: -125}
+        - {x: -1, y: -125}
+        - {x: 1, y: -123}
+        - {x: 11, y: -119}
+        - {x: 7, y: -122}
+        - {x: 5, y: -123}
+        - {x: 4, y: -125}
+        - {x: -4, y: -125}
+        - {x: -11, y: -128}
+        - {x: -11, y: -133}
+        - {x: -3, y: -141}
+        - {x: 34, y: -141}
+        - {x: 52, y: -137}
+        - {x: 69, y: -113}
+        - {x: 69, y: -65}
+        - {x: 65, y: -24}
+    - name: death_relax_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 35}
+        - {x: -23, y: 35}
+        - {x: -67, y: 20}
+        - {x: -67, y: -119}
+        - {x: -5, y: -125}
+        - {x: -1, y: -125}
+        - {x: 1, y: -123}
+        - {x: 5, y: -118}
+        - {x: 11, y: -112}
+        - {x: 11, y: -110}
+        - {x: 13, y: -108}
+        - {x: 13, y: -106}
+        - {x: 14, y: -110}
+        - {x: 13, y: -110}
+        - {x: 11, y: -112}
+        - {x: 11, y: -115}
+        - {x: 13, y: -117}
+        - {x: 5, y: -123}
+        - {x: 4, y: -125}
+        - {x: -4, y: -125}
+        - {x: -11, y: -128}
+        - {x: -11, y: -133}
+        - {x: -3, y: -141}
+        - {x: 34, y: -141}
+        - {x: 52, y: -137}
+        - {x: 69, y: -113}
+        - {x: 69, y: -65}
+        - {x: 65, y: -24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

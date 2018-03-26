@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: db880de1443ce8545a1c775469047c89
+timeCreated: 1469406803
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lava_title_0
+    21300002: lava_title_1
+    21300004: lava_title_2
+    21300006: lava_title_3
+    21300008: lava_title_4
+    21300010: lava_title_5
+    21300012: lava_title_6
+    21300014: lava_title_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lava_title_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 35}
+        - {x: -64, y: 33}
+        - {x: -64, y: -35}
+        - {x: 64, y: -35}
+        - {x: 64, y: 29}
+        - {x: 62, y: 35}
+    - name: lava_title_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 38}
+        - {x: -64, y: -39}
+        - {x: 36, y: -39}
+        - {x: 57, y: -37}
+        - {x: 64, y: -29}
+        - {x: 64, y: 38}
+    - name: lava_title_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 41}
+        - {x: -64, y: -41}
+        - {x: 64, y: -41}
+        - {x: 64, y: 41}
+    - name: lava_title_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 38}
+        - {x: -64, y: -39}
+        - {x: 36, y: -39}
+        - {x: 57, y: -37}
+        - {x: 64, y: -29}
+        - {x: 64, y: 38}
+    - name: lava_title_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 35}
+        - {x: -64, y: 33}
+        - {x: -64, y: -35}
+        - {x: 64, y: -35}
+        - {x: 64, y: 29}
+        - {x: 62, y: 35}
+    - name: lava_title_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 37}
+        - {x: 28, y: 39}
+        - {x: -62, y: 39}
+        - {x: -64, y: 36}
+        - {x: -64, y: -29}
+        - {x: -53, y: -33}
+        - {x: -6, y: -30}
+        - {x: -3, y: -25}
+        - {x: -3, y: -12}
+        - {x: 2, y: -7}
+        - {x: -2, y: -19}
+        - {x: -4, y: -34}
+        - {x: 18, y: -39}
+        - {x: 64, y: -39}
+        - {x: 64, y: 30}
+    - name: lava_title_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 34}
+        - {x: 5, y: 41}
+        - {x: -64, y: 41}
+        - {x: -64, y: -38}
+        - {x: -40, y: -41}
+        - {x: 64, y: -41}
+        - {x: 64, y: 21}
+        - {x: 56, y: 27}
+    - name: lava_title_7
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 37}
+        - {x: 28, y: 39}
+        - {x: -62, y: 39}
+        - {x: -64, y: 36}
+        - {x: -64, y: -29}
+        - {x: -53, y: -33}
+        - {x: -6, y: -30}
+        - {x: -3, y: -25}
+        - {x: -3, y: -12}
+        - {x: 2, y: -7}
+        - {x: -2, y: -19}
+        - {x: -4, y: -34}
+        - {x: 18, y: -39}
+        - {x: 64, y: -39}
+        - {x: 64, y: 30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

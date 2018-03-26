@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 1ad407bf5ddc2dc44b0a476cf842d4bd
+timeCreated: 1462771353
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: knight_op_part2_0
+    21300002: knight_op_part2_1
+    21300004: knight_op_part2_2
+    21300006: knight_op_part2_3
+    21300008: knight_op_part2_4
+    21300010: knight_op_part2_5
+    21300012: knight_op_part2_6
+    21300014: knight_op_part2_7
+    21300016: knight_op_part2_8
+    21300018: knight_op_part2_9
+    21300020: knight_op_part2_10
+    21300022: knight_op_part2_11
+    21300024: knight_op_part2_12
+    21300026: knight_op_part2_13
+    21300028: knight_op_part2_14
+    21300030: knight_op_part2_15
+    21300032: knight_op_part2_16
+    21300034: knight_op_part2_17
+    21300036: knight_op_part2_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knight_op_part2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 114.5}
+        - {x: 30, y: 117.5}
+        - {x: 12, y: 117.5}
+        - {x: -28, y: 87.5}
+        - {x: -45, y: 66.5}
+        - {x: -45, y: -107.5}
+        - {x: -44, y: -111.5}
+        - {x: 31, y: -111.5}
+        - {x: 48, y: -37.5}
+        - {x: 48, y: 25.5}
+        - {x: 46, y: 41.5}
+    - name: knight_op_part2_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 114.5}
+        - {x: 30, y: 117.5}
+        - {x: 12, y: 117.5}
+        - {x: -28, y: 87.5}
+        - {x: -45, y: 66.5}
+        - {x: -45, y: -107.5}
+        - {x: -44, y: -111.5}
+        - {x: 31, y: -111.5}
+        - {x: 48, y: -37.5}
+        - {x: 48, y: 25.5}
+        - {x: 46, y: 41.5}
+    - name: knight_op_part2_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 82.5}
+        - {x: -45, y: 64.5}
+        - {x: -45, y: -82.5}
+        - {x: -41, y: -111.5}
+        - {x: 36, y: -111.5}
+        - {x: 48, y: -99.5}
+        - {x: 48, y: 82.5}
+    - name: knight_op_part2_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 82.5}
+        - {x: -46, y: -10.5}
+        - {x: -33, y: -111.5}
+        - {x: 33, y: -111.5}
+        - {x: 68, y: -54.5}
+        - {x: 68, y: 14.5}
+        - {x: 42, y: 82.5}
+    - name: knight_op_part2_4
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: 86.5}
+        - {x: 103, y: 83.5}
+        - {x: 88, y: 70.5}
+        - {x: -56, y: 34.5}
+        - {x: -56, y: -111.5}
+        - {x: 75, y: -111.5}
+        - {x: 115, y: 52.5}
+        - {x: 115, y: 86.5}
+      - - {x: -41, y: -76.5}
+        - {x: -39, y: -78.5}
+        - {x: -36, y: -77.5}
+        - {x: -36, y: -73.5}
+        - {x: -38, y: -71.5}
+        - {x: -41, y: -72.5}
+    - name: knight_op_part2_5
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -111.5}
+        - {x: -14, y: -110.5}
+        - {x: -14, y: -107.5}
+        - {x: -17, y: -106.5}
+        - {x: -19, y: -108.5}
+      - - {x: 111, y: 86.5}
+        - {x: 103, y: 83.5}
+        - {x: -55, y: 42.5}
+        - {x: -55, y: -111.5}
+        - {x: 87, y: -111.5}
+        - {x: 115, y: -13.5}
+        - {x: 115, y: 86.5}
+    - name: knight_op_part2_6
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -106.5}
+        - {x: 17, y: -108.5}
+        - {x: 18, y: -111.5}
+        - {x: 25, y: -111.5}
+        - {x: 27, y: -109.5}
+        - {x: 27, y: -107.5}
+        - {x: 25, y: -105.5}
+      - - {x: 53, y: -86.5}
+        - {x: 51, y: -87.5}
+        - {x: 44, y: -91.5}
+        - {x: 44, y: -95.5}
+        - {x: 44, y: -94.5}
+        - {x: 41, y: -93.5}
+        - {x: 49, y: -89.5}
+        - {x: 115, y: 81.5}
+        - {x: 115, y: 86.5}
+        - {x: 111, y: 86.5}
+        - {x: 103, y: 83.5}
+        - {x: 88, y: 70.5}
+        - {x: -26, y: 48.5}
+        - {x: -55, y: 29.5}
+        - {x: -57, y: 8.5}
+        - {x: -57, y: -109.5}
+        - {x: 65, y: -109.5}
+        - {x: 72, y: -107.5}
+        - {x: 61, y: -90.5}
+        - {x: 56, y: -86.5}
+      - - {x: -43, y: -88.5}
+        - {x: -41, y: -90.5}
+        - {x: -38, y: -89.5}
+        - {x: -38, y: -85.5}
+        - {x: -40, y: -83.5}
+        - {x: -43, y: -84.5}
+    - name: knight_op_part2_7
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 86.5}
+        - {x: -57, y: 44.5}
+        - {x: -57, y: -104.5}
+        - {x: -54, y: -109.5}
+        - {x: 45, y: -109.5}
+        - {x: 96, y: -76.5}
+        - {x: 115, y: 77.5}
+        - {x: 115, y: 86.5}
+      - - {x: 46, y: -87.5}
+        - {x: 45, y: -90.5}
+        - {x: 40, y: -100.5}
+        - {x: 40, y: -108.5}
+        - {x: 57, y: -108.5}
+        - {x: 61, y: -102.5}
+        - {x: 61, y: -87.5}
+      - - {x: 42, y: -97.5}
+        - {x: 45, y: -96.5}
+        - {x: 45, y: -93.5}
+        - {x: 42, y: -92.5}
+        - {x: 40, y: -94.5}
+      - - {x: -43, y: -76.5}
+        - {x: -40, y: -75.5}
+        - {x: -40, y: -72.5}
+        - {x: -43, y: -71.5}
+        - {x: -45, y: -73.5}
+    - name: knight_op_part2_8
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 86.5}
+        - {x: -52, y: 43.5}
+        - {x: -52, y: -103.5}
+        - {x: -51, y: -107.5}
+        - {x: 56, y: -107.5}
+        - {x: 115, y: 54.5}
+        - {x: 115, y: 86.5}
+    - name: knight_op_part2_9
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: 86.5}
+        - {x: 103, y: 83.5}
+        - {x: 88, y: 70.5}
+        - {x: -52, y: 37.5}
+        - {x: -52, y: -107.5}
+        - {x: 56, y: -107.5}
+        - {x: 115, y: 65.5}
+        - {x: 115, y: 86.5}
+    - name: knight_op_part2_10
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 97.5}
+        - {x: 15, y: 97.5}
+        - {x: -38, y: 69.5}
+        - {x: -44, y: 23.5}
+        - {x: -44, y: -89.5}
+        - {x: -29, y: -106.5}
+        - {x: 36, y: -106.5}
+        - {x: 48, y: -92.5}
+        - {x: 48, y: 4.5}
+        - {x: 36, y: 89.5}
+    - name: knight_op_part2_11
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 105.5}
+        - {x: -58, y: 85.5}
+        - {x: -58, y: -100.5}
+        - {x: 61, y: -100.5}
+        - {x: 69, y: -71.5}
+        - {x: 69, y: 24.5}
+        - {x: 47, y: 105.5}
+    - name: knight_op_part2_12
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 105.5}
+        - {x: -46, y: 75.5}
+        - {x: -58, y: 11.5}
+        - {x: -58, y: -94.5}
+        - {x: -57, y: -100.5}
+        - {x: 70, y: -100.5}
+        - {x: 70, y: 54.5}
+        - {x: 51, y: 105.5}
+    - name: knight_op_part2_13
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 107.5}
+        - {x: 23, y: 98.5}
+        - {x: -32, y: 68.5}
+        - {x: -45, y: 27.5}
+        - {x: -58, y: -17.5}
+        - {x: -58, y: -77.5}
+        - {x: -53, y: -100.5}
+        - {x: 69, y: -100.5}
+        - {x: 71, y: -62.5}
+        - {x: 71, y: 49.5}
+        - {x: 33, y: 107.5}
+    - name: knight_op_part2_14
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 107.5}
+        - {x: -58, y: 97.5}
+        - {x: -58, y: -79.5}
+        - {x: -53, y: -100.5}
+        - {x: 57, y: -100.5}
+        - {x: 74, y: -47.5}
+        - {x: 74, y: 107.5}
+    - name: knight_op_part2_15
+      rect:
+        serializedVersion: 2
+        x: 4410
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 105.5}
+        - {x: -58, y: 85.5}
+        - {x: -58, y: -100.5}
+        - {x: 61, y: -100.5}
+        - {x: 69, y: -71.5}
+        - {x: 69, y: 24.5}
+        - {x: 47, y: 105.5}
+    - name: knight_op_part2_16
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 105.5}
+        - {x: -46, y: 75.5}
+        - {x: -58, y: 11.5}
+        - {x: -58, y: -94.5}
+        - {x: -57, y: -100.5}
+        - {x: 70, y: -100.5}
+        - {x: 70, y: 54.5}
+        - {x: 51, y: 105.5}
+    - name: knight_op_part2_17
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 107.5}
+        - {x: 23, y: 98.5}
+        - {x: -32, y: 68.5}
+        - {x: -45, y: 27.5}
+        - {x: -58, y: -17.5}
+        - {x: -58, y: -77.5}
+        - {x: -53, y: -100.5}
+        - {x: 69, y: -100.5}
+        - {x: 71, y: -62.5}
+        - {x: 71, y: 49.5}
+        - {x: 33, y: 107.5}
+    - name: knight_op_part2_18
+      rect:
+        serializedVersion: 2
+        x: 5292
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 107.5}
+        - {x: -58, y: 97.5}
+        - {x: -58, y: -79.5}
+        - {x: -53, y: -100.5}
+        - {x: 57, y: -100.5}
+        - {x: 74, y: -47.5}
+        - {x: 74, y: 107.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

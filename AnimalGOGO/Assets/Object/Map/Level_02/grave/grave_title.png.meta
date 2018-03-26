@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: eb15bde78a56f1e4997e31d7499d4eff
+timeCreated: 1469406709
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: grave_title_0
+    21300002: grave_title_1
+    21300004: grave_title_2
+    21300006: grave_title_3
+    21300008: grave_title_4
+    21300010: grave_title_5
+    21300012: grave_title_6
+    21300014: grave_title_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: grave_title_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 34}
+        - {x: -64, y: -34}
+        - {x: 59, y: -34}
+        - {x: 64, y: -30}
+        - {x: 64, y: 27}
+        - {x: 57, y: 34}
+    - name: grave_title_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 38}
+        - {x: -64, y: 32}
+        - {x: -64, y: -37}
+        - {x: 64, y: -37}
+        - {x: 64, y: 37}
+        - {x: 62, y: 38}
+    - name: grave_title_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 41}
+        - {x: -64, y: 37}
+        - {x: -64, y: -41}
+        - {x: 45, y: -41}
+        - {x: 64, y: -39}
+        - {x: 64, y: 37}
+        - {x: 62, y: 41}
+    - name: grave_title_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 38}
+        - {x: -64, y: 32}
+        - {x: -64, y: -37}
+        - {x: 64, y: -37}
+        - {x: 64, y: 37}
+        - {x: 62, y: 38}
+    - name: grave_title_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 34}
+        - {x: -64, y: -34}
+        - {x: 59, y: -34}
+        - {x: 64, y: -30}
+        - {x: 64, y: 27}
+        - {x: 57, y: 34}
+    - name: grave_title_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 38}
+        - {x: -64, y: 38}
+        - {x: -64, y: -29}
+        - {x: -3, y: -33}
+        - {x: -3, y: -20}
+        - {x: 4, y: -14}
+        - {x: -2, y: -19}
+        - {x: -2, y: -29}
+        - {x: -1, y: -38}
+        - {x: 63, y: -38}
+        - {x: 64, y: -37}
+        - {x: 64, y: 22}
+        - {x: 63, y: 26}
+    - name: grave_title_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 41}
+        - {x: -64, y: -28}
+        - {x: -15, y: -41}
+        - {x: 64, y: -41}
+        - {x: 64, y: 26}
+        - {x: 20, y: 41}
+    - name: grave_title_7
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 38}
+        - {x: -64, y: 38}
+        - {x: -64, y: -29}
+        - {x: -3, y: -33}
+        - {x: -3, y: -20}
+        - {x: 4, y: -14}
+        - {x: -2, y: -19}
+        - {x: -2, y: -29}
+        - {x: -1, y: -38}
+        - {x: 63, y: -38}
+        - {x: 64, y: -37}
+        - {x: 64, y: 22}
+        - {x: 63, y: 26}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

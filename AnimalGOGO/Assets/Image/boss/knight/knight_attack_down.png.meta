@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: a3299ae764629fa4cbb832112deeff49
+timeCreated: 1462771302
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: knight_attack_down_0
+    21300002: knight_attack_down_1
+    21300004: knight_attack_down_2
+    21300006: knight_attack_down_3
+    21300008: knight_attack_down_4
+    21300010: knight_attack_down_5
+    21300012: knight_attack_down_6
+    21300014: knight_attack_down_7
+    21300016: knight_attack_down_8
+    21300018: knight_attack_down_9
+    21300020: knight_attack_down_10
+    21300022: knight_attack_down_11
+    21300024: knight_attack_down_12
+    21300026: knight_attack_down_13
+    21300028: knight_attack_down_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: knight_attack_down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 101.5}
+        - {x: -47, y: 48.5}
+        - {x: -47, y: -92.5}
+        - {x: -38, y: -101.5}
+        - {x: 46, y: -101.5}
+        - {x: 46, y: 101.5}
+    - name: knight_attack_down_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 125.5}
+        - {x: -47, y: 120.5}
+        - {x: -47, y: -102.5}
+        - {x: 46, y: -102.5}
+        - {x: 46, y: 125.5}
+    - name: knight_attack_down_2
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 117.5}
+        - {x: -36, y: 117.5}
+        - {x: -47, y: 71.5}
+        - {x: -47, y: -45.5}
+        - {x: -33, y: -102.5}
+        - {x: 30, y: -102.5}
+        - {x: 46, y: -63.5}
+        - {x: 46, y: 87.5}
+        - {x: 42, y: 106.5}
+    - name: knight_attack_down_3
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 91.5}
+        - {x: -47, y: 71.5}
+        - {x: -47, y: -54.5}
+        - {x: -39, y: -102.5}
+        - {x: 42, y: -102.5}
+        - {x: 46, y: -72.5}
+        - {x: 46, y: 76.5}
+        - {x: 33, y: 91.5}
+    - name: knight_attack_down_4
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 91.5}
+        - {x: -48, y: -35.5}
+        - {x: -38, y: -102.5}
+        - {x: 31, y: -102.5}
+        - {x: 66, y: -48.5}
+        - {x: 66, y: 17.5}
+        - {x: 32, y: 91.5}
+    - name: knight_attack_down_5
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 95.5}
+        - {x: -58, y: 38.5}
+        - {x: -58, y: -102.5}
+        - {x: 75, y: -102.5}
+        - {x: 113, y: 48.5}
+        - {x: 113, y: 95.5}
+      - - {x: -43, y: -67.5}
+        - {x: -41, y: -69.5}
+        - {x: -38, y: -68.5}
+        - {x: -38, y: -64.5}
+        - {x: -40, y: -62.5}
+        - {x: -43, y: -63.5}
+    - name: knight_attack_down_6
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: 95.5}
+        - {x: 90, y: 95.5}
+        - {x: -57, y: 51.5}
+        - {x: -57, y: -98.5}
+        - {x: -54, y: -102.5}
+        - {x: 66, y: -102.5}
+        - {x: 75, y: -100.5}
+        - {x: 50, y: -25.5}
+        - {x: 106, y: 75.5}
+        - {x: 113, y: 90.5}
+    - name: knight_attack_down_7
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -96.5}
+        - {x: 17, y: -99.5}
+        - {x: 18, y: -102.5}
+        - {x: 23, y: -102.5}
+        - {x: 25, y: -100.5}
+        - {x: 25, y: -98.5}
+        - {x: 23, y: -96.5}
+      - - {x: 42, y: -82.5}
+        - {x: 47, y: -80.5}
+        - {x: 50, y: -67.5}
+        - {x: 113, y: 83.5}
+        - {x: 113, y: 95.5}
+        - {x: -43, y: 95.5}
+        - {x: -59, y: 65.5}
+        - {x: -59, y: -100.5}
+        - {x: 61, y: -100.5}
+        - {x: 63, y: -78.5}
+        - {x: 50, y: -75.5}
+        - {x: 49, y: -78.5}
+      - - {x: -45, y: -79.5}
+        - {x: -43, y: -81.5}
+        - {x: -40, y: -80.5}
+        - {x: -40, y: -76.5}
+        - {x: -42, y: -74.5}
+        - {x: -45, y: -75.5}
+    - name: knight_attack_down_8
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: 29.5}
+        - {x: 113, y: 95.5}
+        - {x: 74, y: 95.5}
+        - {x: -59, y: 51.5}
+        - {x: -59, y: -100.5}
+        - {x: 57, y: -100.5}
+      - - {x: 44, y: -78.5}
+        - {x: 43, y: -81.5}
+        - {x: 38, y: -91.5}
+        - {x: 38, y: -99.5}
+        - {x: 55, y: -99.5}
+        - {x: 59, y: -93.5}
+        - {x: 59, y: -78.5}
+      - - {x: -45, y: -67.5}
+        - {x: -42, y: -66.5}
+        - {x: -42, y: -63.5}
+        - {x: -45, y: -62.5}
+        - {x: -47, y: -64.5}
+    - name: knight_attack_down_9
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 95.5}
+        - {x: -54, y: 61.5}
+        - {x: -54, y: -86.5}
+        - {x: -47, y: -98.5}
+        - {x: 51, y: -98.5}
+        - {x: 113, y: 88.5}
+        - {x: 113, y: 95.5}
+    - name: knight_attack_down_10
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 95.5}
+        - {x: -54, y: 61.5}
+        - {x: -54, y: -86.5}
+        - {x: -47, y: -98.5}
+        - {x: 51, y: -98.5}
+        - {x: 113, y: 88.5}
+        - {x: 113, y: 95.5}
+    - name: knight_attack_down_11
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 95.5}
+        - {x: -54, y: 61.5}
+        - {x: -54, y: -86.5}
+        - {x: -47, y: -98.5}
+        - {x: 51, y: -98.5}
+        - {x: 113, y: 88.5}
+        - {x: 113, y: 95.5}
+    - name: knight_attack_down_12
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 95.5}
+        - {x: -54, y: 61.5}
+        - {x: -54, y: -86.5}
+        - {x: -47, y: -98.5}
+        - {x: 51, y: -98.5}
+        - {x: 113, y: 88.5}
+        - {x: 113, y: 95.5}
+    - name: knight_attack_down_13
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 95.5}
+        - {x: -54, y: 61.5}
+        - {x: -54, y: -86.5}
+        - {x: -47, y: -98.5}
+        - {x: 51, y: -98.5}
+        - {x: 113, y: 88.5}
+        - {x: 113, y: 95.5}
+    - name: knight_attack_down_14
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 0
+        width: 294
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 95.5}
+        - {x: -54, y: 61.5}
+        - {x: -54, y: -86.5}
+        - {x: -47, y: -98.5}
+        - {x: 51, y: -98.5}
+        - {x: 113, y: 88.5}
+        - {x: 113, y: 95.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

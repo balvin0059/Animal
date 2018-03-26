@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Area_Poison
+  - Wall
+  - Player
+  - partner
+  - partner_monse
+  - partner_ox
+  - partner_dragon
+  - partner_snake
+  - partner_cock
+  - partner_pig
+  - Item
+  - Item_Partner
+  - Item_Gold
+  - Weapon
+  - Monster_Clone
+  - partner_tiger
+  - partner_dog
+  - partner_mouse
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

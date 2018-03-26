@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &152568
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 467844}
+  - component: {fileID: 11486096}
+  - component: {fileID: 6861590}
+  m_Layer: 0
+  m_Name: AttackRange
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &467844
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 152568}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!68 &6861590
+EdgeCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 152568}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  m_Points:
+  - {x: -0.0010823682, y: -0.00005812198}
+  - {x: 0.6744728, y: 0.74976856}
+  - {x: 0.50693476, y: 0.8642248}
+  - {x: 0.3626729, y: 0.9354051}
+  - {x: 0.1840614, y: 0.9863269}
+  - {x: 0.0018817782, y: 0.9980438}
+  - {x: -0.16849294, y: 0.9864483}
+  - {x: -0.35824043, y: 0.9416758}
+  - {x: -0.52320147, y: 0.8636202}
+  - {x: -0.6554266, y: 0.7544975}
+  - {x: -0.00005908124, y: -0.00018919073}
+--- !u!114 &11486096
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 152568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed633ebd1939d6540bc1758a0f013bce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Attack: {fileID: 0}
+  Weapon: {fileID: 154180, guid: daf10171666608c42b7f40d4e0db674b, type: 2}
+  target: {fileID: 451384, guid: 3bac916066125594bb485b170e1916cd, type: 2}
+  AttackSpeed: 1
+  speed: 3
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 451384, guid: 3bac916066125594bb485b170e1916cd, type: 2}
+    - target: {fileID: 0}
+      propertyPath: Weapon
+      value: 
+      objectReference: {fileID: 154180, guid: daf10171666608c42b7f40d4e0db674b, type: 2}
+    - target: {fileID: 0}
+      propertyPath: m_Radius
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Attack
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 152568}
+  m_IsPrefabParent: 1
